@@ -1,0 +1,4 @@
+emberjsfavicon
+==============
+
+emberjs - favicon
